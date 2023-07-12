@@ -45,7 +45,7 @@ nav .menu a {
 }
 
 nav .menu a:first-child {
-  color: #00b894;
+  color: #0033cc;
 }
 
 main {
@@ -93,18 +93,18 @@ section a {
 }
 
 section .btnone {
-  /*background: #00b894;*/
+  /*background: #0033cc;*/
   background: #fff;
   color: #000;
 }
 
 .btnone:hover {
-  background: #00b894;
+  background: #0033cc;
   color: white;
 }
 
 section .btntwo {
-  background: #00b894;
+  background: #0033cc;
   color: white;
 }
 
@@ -116,7 +116,7 @@ section .btntwo {
 .change_content:after {
   content: "";
   animation: changetext 10s infinite linear;
-  color: #00b894;
+  color: #0033cc;
 }
 
 @keyframes changetext {
@@ -124,13 +124,13 @@ section .btntwo {
     content: "Powerful";
   }
   20% {
-    content: "Customizable";
+    content: "Immersive";
   }
   35% {
-    content: "Advanced";
+    content: "Cheap";
   }
   60% {
-    content: "Impressive";
+    content: "Next-gen";
   }
   80% {
     content: "Efficient";
