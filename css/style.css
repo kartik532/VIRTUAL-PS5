@@ -139,5 +139,8 @@ section .btntwo {
     content: "BEST";
   }
 }
+body {
+  overflow: auto;
+}
 view rawstyle.css hosted with ❤ by GitHub
 Hope you love the video.
